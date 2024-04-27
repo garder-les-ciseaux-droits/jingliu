@@ -1,0 +1,23 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "https://raw.githubusercontent.com/garder-les-ciseaux-droits/jingliu/main/uploads/jingliu.moc3",
+    "Textures": [
+      "https://raw.githubusercontent.com/garder-les-ciseaux-droits/jingliu/main/uploads/texture_00.png"
+    ],
+    "Physics": "https://raw.githubusercontent.com/garder-les-ciseaux-droits/jingliu/main/uploads/jingliu.physics3.json",
+    "DisplayInfo": "https://raw.githubusercontent.com/garder-les-ciseaux-droits/jingliu/main/uploads/jingliu.cdi3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": ["PARAM_MOUTH_OPEN_Y"]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    }
+  ]
+}
